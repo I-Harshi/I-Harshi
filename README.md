@@ -2,12 +2,10 @@
 <h3 align="center">An aspiring Cyber Security Engineer from India</h3>
 
 ### 👋 About Me
-- 🔭 I’m currently pursuing a B.Tech in Computer Science Engineering with a specialization in Cyber Security at Shiv Nadar University, Chennai.
+- 🔭 I’m currently pursuing a B.Tech in Computer Science Engineering with a specialization in Cyber Security.
 - 🌱 I’m deeply interested in cybersecurity, blockchain technology, and AI-driven solutions.
-- 👯 I’m looking to collaborate on projects related to full-stack development, cybersecurity, and AI.
-- 💬 Ask me about Python, Java, Blockchain, and Neural Networks.
-- 📫 How to reach me: [sunharshi@gmail.com](mailto:sunharshi@gmail.com)
-- ⚡ Fun fact: I secured the 35th position out of 500+ teams in the CTF event conducted by IIT Madras - Shaastra 2024.
+- 👯 I’m looking for collaboration opportunities on any innovative cool projects, a partner for Hackathons, and CTFs (big fan).
+
 
 ### 🛠️ My Technical Skills
 - **Programming Languages:** Python, Java, C, C++, Solidity
@@ -40,8 +38,3 @@
 </p>
 
 
-## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
