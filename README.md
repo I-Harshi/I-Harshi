@@ -37,4 +37,10 @@
   <img src="https://img.shields.io/badge/Katalon Studio-00C389?style=for-the-badge&logo=katalon&logoColor=white" alt="Katalon Studio"/>
 </p>
 
+### 🌐 Socials
+<p align="left">
+  <a href="https://www.linkedin.com/in/harshitha-sundar-118840259/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
